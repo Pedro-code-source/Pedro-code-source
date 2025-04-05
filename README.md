@@ -20,4 +20,4 @@ Me chamo Pedro e atualmente sou estudante na área de desenvolvimento de softwar
   <a href = "mailto:pedropereiraa.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="www.linkedin.com/in/pedro-pereira-586729319" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-![Snake animation](https://github.com/rafaballerini/Pedro-code-source/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Pedro-code-source/Pedro-code-source/output/snake.svg" alt="Snake animation" />
