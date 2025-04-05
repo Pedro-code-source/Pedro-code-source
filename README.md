@@ -18,7 +18,7 @@ Me chamo Pedro e atualmente sou estudante na área de desenvolvimento de softwar
 
 <div style="display:inline_block"><br>
   <a href = "mailto:pedropereiraa.work@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="www.linkedin.com/in/pedro-pereira-586729319" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linkedin.com/in/pedro-pereira-586729319" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img src="https://raw.githubusercontent.com/Pedro-code-source/Pedro-code-source/output/snake.svg" alt="Snake animation" />
